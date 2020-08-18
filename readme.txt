@@ -1,0 +1,1 @@
+Flexbox being used to create a responsive business homepage.
